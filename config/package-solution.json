@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "work-flow-report-client-side-solution",
+    "id": "e5c8f9f0-ff5a-44e5-9ddb-a55670311ed6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "WorkFlowReport description"
+      },
+      "longDescription": {
+        "default": "WorkFlowReport description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "work-flow-report Feature",
+        "description": "The feature that activates elements of the work-flow-report solution.",
+        "id": "b3c45de0-9ae2-4ec7-9be9-363a335f7ac1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/work-flow-report.sppkg"
+  }
+}

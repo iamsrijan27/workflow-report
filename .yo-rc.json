@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "work-flow-report",
+    "libraryId": "e5c8f9f0-ff5a-44e5-9ddb-a55670311ed6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "WorkFlowReport",
+    "solutionShortDescription": "WorkFlowReport description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
